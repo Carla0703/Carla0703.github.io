@@ -1,0 +1,170 @@
+
+.INICIO {
+color: hotpink ;
+	text-decoration:none;
+	font-weight: bold;
+	padding:30px;
+}
+.INICIO:hover{
+	color: black;
+}
+.INTEGRANTES {
+	color: hotpink ;
+	text-decoration:none;
+	font-weight: bold;
+	padding:30px;
+}
+.INTEGRANTES:hover{
+	color: black;
+}
+.CANCIONES {
+	color: hotpink ;
+	text-decoration:none;
+	font-weight: bold;
+	padding:30px;
+}
+.CANCIONES:hover{
+	color: black;
+}
+.LOGROS{
+	color: hotpink ;
+	text-decoration:none;
+	font-weight: bold;
+	padding:30px;
+}
+.LOGROS:hover{
+	color: black;
+}
+.RRSS{
+	color: hotpink ;
+	text-decoration:none;
+	font-weight: bold;
+	padding:30px;
+
+}
+.RRSS:hover{
+color: black;	
+}
+
+.texto {
+font-family:cursive;
+font-size: 19px;
+color: #E10F84
+}
+
+.borde {
+border-style:solid;
+border-width:6PX;
+border-color:black;
+
+}
+.imagen1{
+background-image: url("img/imagen6.jpg");
+background-size:110% 450px;
+width:600px;
+height:450px;	
+
+}
+.imagen1:hover{
+	background-image: url(img/imagen19.jpg);
+}
+
+
+.texto4 {
+ont-family: cursive ;
+font-size: 20px;
+color: hotpink;
+}
+
+.borde6 {
+border-radius:20%;
+border-style:double;
+border-width:10PX;
+border-color:whitesmoke;
+
+}
+
+.titulo1 {
+font-family:cursive;
+font-size: 25px;
+color: black;
+}
+.imagenlisa {
+background-image: url(img/imagen7.jpg);
+background-size: 100% 310px;
+width: 250px;
+height: 250px;
+
+border-radius:5%;
+border-style:groove;
+border-width:10PX;
+border-color:hotpink;
+
+}
+.imagenlisa:hover {
+background-image: url(img/imagen20.jpg);
+}
+.imagenrose {
+background-image: url(img/imagen8.jpg);
+background-size: 100% 310px;
+width: 250px;
+height: 250px;
+
+border-radius:5%;
+border-style:groove;
+border-width:10PX;
+border-color:hotpink;
+}
+.imagenrose:hover {
+background-image: url(img/imagen22.jpg);
+}
+.imagenjennie {
+background-image: url(img/imagen9.jpg);
+background-size: 100% 310px;
+width: 250px;
+height: 250px;
+
+border-radius:5%;
+border-style: groove;
+border-width:10PX;
+border-color:hotpink;
+}
+.imagenjennie:hover {
+background-image: url(img/imagen23.jpg);
+}
+.imagenjisoo {
+background-image: url(img/imagen10.jpg);
+background-size: 100% 310px;
+width: 250px;
+height: 250px;
+
+border-radius:5%;
+border-style: groove;
+border-width:10PX;
+border-color:hotpink;
+}
+.imagenjisoo:hover {
+	background-image: url(img/imagen24.jpg);
+}
+
+.textoblack {
+font-family: cursive;
+font-size: 17px;
+color: black;
+}
+
+font {
+font-family:cursive;
+font-size: 17px;
+color: #E10F84
+}
+
+
+.contenedor{
+	display: flex;
+	justify-content: center;
+	height:1050px;
+	background-color: pink;
+    margin-bottom: 100px;
+
+}
